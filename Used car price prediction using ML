@@ -1,24 +1,2 @@
 
 
-CarValue-AI/
-│
-├── data/
-│   ├── raw/
-│   │   └── cars.csv
-│   └── processed/
-│
-├── notebooks/
-│   └── data_analysis.ipynb
-│
-├── models/
-│   └── car_price_model.pkl
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── train_model.py
-│   └── predict.py
-│
-├── app.py
-├── requirements.txt
-├── .gitignore
-└── README.md
