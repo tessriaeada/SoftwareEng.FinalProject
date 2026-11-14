@@ -1,6 +1,6 @@
 # AutoWorth
 
-AutoWorth is a car valuation and listings app that sits alongside the Ownly property portal in this repository. It uses the supplied car listings to estimate prices and lets sellers post cars and registered buyers contact them.
+AutoWorth is a car valuation and listings app. It uses the supplied car listings to estimate prices and lets sellers post cars and registered buyers contact them.
 
 ## Run locally
 
